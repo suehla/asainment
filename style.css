@@ -1,0 +1,226 @@
+*{
+    margin: 0;padding: 0;   
+}
+/* 1 section  start*/
+.banner-img{
+    width: 300px;
+}
+
+.title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.title-1{
+    margin-top: 27px;
+    margin-bottom: 35px;
+}
+.btn{
+    padding: 10px 25px;
+    color: white;
+    background-color: crimson;
+    border: none;
+    border-radius: 3px;
+}
+.first-container{
+    display: flex;
+   justify-content: space-around;
+   height: 380px;
+   margin-bottom: 100px;
+   align-items: center;
+   background-color: rgb(248, 232, 232);
+}
+
+/* 1 section  end*/
+
+/* 2 section start*/
+.second-text{
+    font-size: 15px;
+    margin-top: 20px;
+}
+.second-container{
+    margin-bottom: 30px;
+    text-align: center;
+    margin-top: 70px;
+    
+}
+
+/* 2 section  end*/
+
+/* 3 section  start*/
+
+.icon{
+    height: 340px;
+    width: 300px;
+    border-radius: 100% 100% 0% 0%;
+    background-color: rgb(247, 214, 232);
+}
+.icon1{
+    height: 340px;
+    width:300px ;
+    border-radius: 100% 100% 0% 0%;
+    background-color: rgb(194, 247, 240);
+}
+.icon2{
+    height: 340px;
+    width: 300px;
+    border-radius: 100% 100% 0% 0%;
+    background-color: rgb(191, 236, 214);
+}
+.third-container{
+    height: 290px;
+    justify-content: center;
+    display: flex;
+    padding: 50px;
+    gap: 80px;
+}
+.third-text{
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    gap: 245px;
+    padding: 30px;
+}
+/*3 section end */
+
+/* 4 section  start*/
+.four-photo{
+    height: 70px;
+}
+.four-container{
+    height: 250px;
+    width: 1040px;
+    line-height: 35px;
+    margin-left: 127px;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    margin-top: 75px;
+    text-align: center;
+    background-color: rgb(228, 225, 225);
+    
+}
+
+/*4 section end*/
+
+/* 5 section  start*/
+.five-img{
+    width: 200px;
+}
+.five-color{
+    color: crimson;
+}
+.five-container{
+    display: flex;
+   justify-content: space-around;
+   height: 300px;
+   
+   padding: 50px;
+   text-align: center;
+   background-color: rgb(235, 212, 212);
+   margin-top: 70px;
+}
+.title-5{
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.title-51{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.btn-5{
+    padding: 10px 20px;
+    color: white;
+    background-color: crimson;
+    border: none;
+    border-radius: 3px;
+}
+/*5 section end*/
+
+/* 6 section  start*/
+.six-container{
+    margin-bottom: 35px;
+    text-align: center;
+    margin-top: 80px;
+    
+}
+.font-6{
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+/*6 section end*/
+
+/* 7 section  start*/
+.seven-container{
+    height: 290px;
+    justify-content: center;
+    display: flex;
+    padding: 50px;
+    gap: 15px;   
+}
+/*7 section end*/
+
+/* 8 section  start*/
+.eight-container{
+    height: 248px;
+    width: 1050px;
+    padding-top: 80px;
+    background-image: url("images/p-13.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+    align-items: center;
+    text-align: center;
+    margin-left: 130px;
+    margin-top: 40px;
+    
+}
+
+.text-eight{
+    font-weight: 80px;
+    margin-bottom: 25px;
+    
+}
+.btn-8{
+    height: 55px;
+    width: 455px;
+    background-color: azure;
+    border-radius: 10px;
+    border-style: none;
+    text-align: left;
+    margin-top: 35px;
+}
+.btn-81{
+    height:55px;
+    width: 120px;
+    background-color: crimson;
+    border-radius: 10px;
+    border-style: none;
+}
+
+/*8 section end*/
+
+/* footer section  start*/
+.footer-container{
+    height: 300px;
+    background-color: black;
+    color: white;
+    align-items: center;
+    text-align:center ;
+    margin-top: 85px;
+    padding-top: 55px;
+    
+}
+
+.foter-span{  
+  color: crimson;
+  
+}
+.foter-text{
+    margin-bottom: 28px;
+    margin-top: 25px;
+}
+
+/* footer section  end*/
